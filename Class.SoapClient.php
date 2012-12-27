@@ -104,7 +104,6 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 			"device" => "cmn_notif_device", 
 			"catalogtask" => "sc_task", 
 			"hr" => "hr", 
-			"onboarding" => "u_onboarding", 
 			"requestitem" => "sc_request_item", 
 			"usergroup" => "sys_user_group", 
 			"user" => "sys_user",
@@ -143,28 +142,22 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 	}
 
     
-	private function caughtException($E)
-	{
+	private function caughtException($E){
         if( $this -> debug )
 		    echo $E -> getMessage();
 		else
             return false;
 	}
 
-	public function insert( $query, $defaultValues = array()  )
-	{
-		try
-		{
-			if( is_object($query) )
-			{		
+	public function insert( $query, $defaultValues = array()  ){
+		try{
+			if( is_object($query) ){		
 				$query = $query->getArray(); 
 			}
 			
 			$query = DefaultValues::set( $query , $this->tableName );
 			return $this -> client -> insert( $query );
-		}
-		catch( Exception $E )
-		{
+		}catch( Exception $E ){
 			return $this -> caughtException($E);
 		}
 	}
@@ -181,36 +174,27 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 	*	@return 
 	*	@see Record 
 	*/
-	public function update( $query, $defaultValues = array()  )
-	{
-		try
-		{
-			if( is_object($query) )
-			{		
+	public function update( $query, $defaultValues = array()  ){
+		try{
+			if( is_object($query) ){		
 				$query = $query->getArray(); 
 			}
 			
 			$query = DefaultValues::set( $query , $this->tableName );
 			
 			return $this -> client -> update( $query );
-		}
-		catch( Exception $E )
-		{
+		}catch( Exception $E ){
 			return $this -> caughtException($E);
 		}
 	}
 	
 
-	public function get( $sys_id )
-	{
-		try
-		{
+	public function get( $sys_id ){
+		try{
 			$res = $this -> client -> get( array( 'sys_id' => $sys_id ) );
 			$res = DefaultLabels::set( new Record( $res ) , $this->tableName );
 			return $res;
-		}
-		catch( Exception $E )
-		{
+		}catch( Exception $E ){
 			return $this -> caughtException($E);
 		}
 	}
@@ -223,10 +207,8 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 	*	@return if successful query return a record otherwise
 	*	return false 
 	*/
-	public function getRecord( $query )
-	{
-		try
-		{
+	public function getRecord( $query ){
+		try{
 			//if argument is array add another index for __limit = 1 query delimter
 			if( is_array( $query ) )
 				$query['__limit'] = 1;
@@ -245,9 +227,7 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 			//update default labels for resulting record 
 			$res = DefaultLabels::set( new Record( $res[0], $this -> tableName ) ); 			
 			return $res;
-		}
-		catch( Exception $E )
-		{
+		}catch( Exception $E ){
 			return $this -> caughtException($E);
 		}
 	}
@@ -268,10 +248,8 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 	*	@return 
 	*		
 	*/
-	public function getRecords( $query = array() )
-	{
-		try
-		{
+	public function getRecords( $query = array() ){
+		try{
 			$ret = array();
 		
 			if( !is_array( $query ) )
@@ -292,12 +270,13 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 			$allRecords = array();
 			
 			foreach( $ret as $soapRecord )
-				array_push( $allRecords, new Record( $soapRecord , $this -> tableName ) );
+                array_push( 
+                    $allRecords, 
+                    new Record( $soapRecord , $this -> tableName ) 
+                );
 				
 			return $this -> fixDates( $ret );
-		}
-		catch( Exception $E )
-		{
+		}catch( Exception $E ){
 			return $this -> caughtException($E);
 		}
 	}
@@ -314,14 +293,10 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 	*	@return 
 	*		
 	*/
-	public function deleteRecord( $sys_id )
-	{
-		try
-		{
+	public function deleteRecord( $sys_id ){
+		try{
 			return $this -> client -> deleteRecord( array( 'sys_id' => $sys_id ) );
-		}
-		catch( Exception $E )
-		{
+		}catch( Exception $E ){
 			return $this -> caughtException($E);
 		}
 	}
@@ -336,11 +311,8 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 	*	@uses DateTimeZone
 	*		
 	*/
-	private function fixTime( $strTime )
-	{
-		
-		if( strlen($strTime) > 0 )
-		{
+	private function fixTime( $strTime ){
+		if( strlen($strTime) > 0 ){
 			$date = new DateTime($strTime, new DateTimeZone($this -> fromZone));
 				
 			$date->setTimezone(new DateTimeZone($this -> toZone));
@@ -359,20 +331,17 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 	* 	a string which will 
 	*	@uses fixTime
 	*/
-	public function fixDates( $result )
-	{
+	public function fixDates( $result ){
 		return $result;
 		
 		$ret = $result;
 		
-		if( !is_array( $ret ) )
-		{
+		if( !is_array( $ret ) ){
 			$ret = $this -> fixDates( array( $ret ) );
 			$ret = $ret[0];
 		}
 				
-		foreach( $ret as &$obj )
-		{
+		foreach( $ret as &$obj ){
 			if( isset( $obj -> sys_created_on ) )
 				$obj -> created = $this -> fixTime( $obj -> sys_created_on );
 		}
@@ -390,8 +359,7 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 	*	@return array The associative array containing encoded 
 	*	query. 
 	*/
-	protected function toSoapQuery( $query )
-	{
+	protected function toSoapQuery( $query ){
 		return array( '__encoded_query' => $query );
 	}
 	
