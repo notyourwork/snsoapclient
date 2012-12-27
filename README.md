@@ -1,4 +1,4 @@
 snsoapclient
 ============
 
-PHP based servicenow soap client
+Various Soap libraries for servicenow.
