@@ -311,134 +311,6 @@
 		}
 	}
 
-	class Stages extends ServiceNowClient
-	{
-		public $Names = array();
-		public $Values = array();
-		public $Hints = array();
-		public $Types = array();
-
-		public $lastStageSeqNumber;
-		
-		// hold stages for each table
-		public static $allTables_Stages = array();
-		
-		public function __construct( $targetTableName, $stageElementName = "u_stage" )
-		{
-			if( isset( self :: $allTables_Stages[ $targetTableName ] ) )
-			{
-				$this -> Names = self :: $allTables_Stages[ $targetTableName ] -> Names;
-				$this -> Values = self :: $allTables_Stages[ $targetTableName ] -> Values;
-				$this -> Hints = self :: $allTables_Stages[ $targetTableName ] -> Hints;
-				$this -> Types = self :: $allTables_Stages[ $targetTableName ] -> Types;
-				
-				$this -> lastStageSeqNumber = self :: $allTables_Stages[ $targetTableName ] -> lastStageSeqNumber;
-				
-				return;
-			}
-			
-			parent::__construct( "sys_choice" );
-			
-			$result = $this -> getRecords( "element=" . $stageElementName . "^name=" . $targetTableName . "^ORDERBYsequence" );
-			
-			$this -> nStages = 0;
-			
-			foreach( $result as $obj )
-			{
-				$this -> Names[ $obj -> sequence ] = $obj -> label;
-				$this -> Values[ $obj -> sequence ] = $obj -> value;
-				$this -> Hints[ $obj -> sequence ] = $obj -> hint;
-				$this -> Types[ $obj -> sequence ] = $obj -> u_stage_type;
-				$this -> lastStageSeqNumber = $obj -> sequence;
-			}
-			
-			self :: $allTables_Stages[ $targetTableName ] = clone $this;
-			
-		}
-		
-		public function getStageSeqByValues( $stageValue )
-		{
-			$stageSeq = 0;
-			
-			foreach( $this -> Values as $seq => $val )
-				if( $val == $stageValue )
-				{
-					$stageSeq = $seq;
-					
-					break;
-				}
-				
-			return $stageSeq;
-		}
-		
-		public function drawStagesTable( $curStageValue, $actualStageValue  )
-		{
-			$output = "";
-	
-			$output .= '<table class="stages">';
-	
-			$output .= '<tr>';
-	
-			$output .= '<td valign="top" width="20px"><span class="stageFilter"><img src="images/filter_show.gifx" /></span></td>';
-	
-			$output .= "<td>";
-	
-			// find the sequence number for the current stage value
-			
-			$curStageNumber = $this -> getStageSeqByValues( $curStageValue );
-			$actualStageNumber = $this -> getStageSeqByValues( $actualStageValue );
-			
-			foreach( $this -> Names as $seqIndex => $stageName )
-			{
-				$stageProgress = "";
-
-				if( $seqIndex < $actualStageNumber || $seqIndex == $curStageNumber && $seqIndex == $this -> lastStageSeqNumber )
-				{
-					$img = "workflow_complete.gifx";
-					$stageProgress = "Completed";
-				}
-				else if( $seqIndex == $actualStageNumber && $seqIndex != $curStageNumber )
-				{
-					$img = "workflow_rejected.gifx";
-					$stageProgress = "Rejected";
-				}
-				else if( $seqIndex > $actualStageNumber && $seqIndex < $curStageNumber )
-				{
-					$img = "workflow_skipped.gifx";
-					$stageProgress = "Skipped";
-				}
-				else if( $seqIndex == $actualStageNumber && $seqIndex == $curStageNumber )
-				{
-					$img = "workflow_active.gifx";
-					$stageProgress = "In Progress";
-				}
-				else
-				{
-					$img = "workflow_pending.gifx";
-					$stageProgress = "Pending - has not started";
-				}
-
-				$stageHint = $this -> Names[ $seqIndex ] . " (" . $stageProgress . ")";
-	
-				$output .= '<span class="stageEntry">';
-		
-				$output .= '<span class="stageEntryImg"><img title="' . $stageHint . '" src="images/' . $img . '" /></span>';
-
-				$output .= '<span class="stageEntryText">' . $stageName . "</span>";
-		
-				$output .= "</span>";
-			}
-	
-			$output .= "</td>";
-	
-			$output .= "</tr>";
-	
-			$output .= "</table>";
-	
-			return $output;
-		}
-	}
-	
 	abstract class HRObjectClass extends ServiceNowClient
 	{
 		public $fieldValues = NULL;
@@ -533,36 +405,18 @@
 	}
 
 	
-	class HR extends HRObjectClass
-	{
-		public function __construct( $tableName = "hr" )
-		{
-			parent::__construct( $tableName );
-		}
-		
-	}	
-	class onBoarding extends HRObjectClass
-	{		
-		public function __construct()
-		{
-			parent::__construct( "u_onboarding" );
-		}
-	}
-	
-	class newEmployee extends HRObjectClass
-	{		
-		public function __construct()
-		{
-			parent::__construct( "u_new_employees" );
-		}
-	}
-	
-	class BoardingAccessRequest extends HRObjectClass
-	{		
-		public function __construct()
-		{
-			parent::__construct( "u_boarding_access_requests" );
-		}
-	}
+class Incident extends TaskObjectClass{
+    public function __construct( $tableName = "incident" ){
+        parent::__construct( $tableName );
+    }
+}	
+class HR extends HRObjectClass
+{
+    public function __construct( $tableName = "hr" )
+    {
+        parent::__construct( $tableName );
+    }
+    
+}	
 
 ?>
