@@ -63,69 +63,148 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 {
 
 	public $tableName;
-	public $WSDL = "https://instance.service-now.com/";
-
-	const LOGIN = 'user';
-	const PASSWORD = 'user';
+	
+	private $WSDL = '';
+	private $LOGIN = '';
+	private $PASSWORD = '';
+	
 
 	/**
 	*	The SoapClient object. 
 	*	@access private 
 	*/
 	private $client;
-    private $debug; 
+	
+	/**
+	 * Output debug content? 
+	 * @var boolean
+	 * @access private
+	 */
+    private $debug = false; 
+    
+    /**
+     * Time zone to convert from.
+     * @var String
+     * @access private
+     */
     private $fromZone = 'UTC';
+    /**
+     * Time zone to convert to.
+     * @var String
+     * @access private
+     */
     private $toZone = 'America/New_York';
+    
 	/**
 	*	Constructor accepts a table name as argument
 	*	and sets the appropriate WSDL end point for
 	*	the web services client. 
 	*
+	*	@param array of options:
+	*	@param Required String instance
+	*	@param Required String tableName
+	*	@param String login = ''
+	*	@param String password = ''
+	*	@param String fromTimeZone = 'UTC';
+	*	@param String toTimeZone = 'America/New_York';
+	*	@param Boolean debug = false
+	*		
 	*/
-	public function __construct( $tableName, $debug=false  )
+	public function __construct($Options)
 	{
-        if( $debug )
-        {
-            ini_set(‘display_errors’,1);
-            error_reporting(E_ALL|E_STRICT);
-        }
-        $this -> debug = $debug;
-         
-        //table map provides lookup and if not found we assume tableName
-        //provided is expected to be correct and will be used
-		$tableMap = array( 
-			"incident" => "incident", 
-			"change" => "change_request", 
-			"problem" => "problem", 
-			"request" => "sc_request", 
-			"requestitem" => "sc_req_item", 
-			"department" => "cmn_department", 
-			"message" => "cmn_notif_message", 
-			"device" => "cmn_notif_device", 
-			"catalogtask" => "sc_task", 
-			"hr" => "hr", 
-			"requestitem" => "sc_request_item", 
-			"usergroup" => "sys_user_group", 
-			"user" => "sys_user",
-			"userhasrole" => "sys_user_has_role", 
-			"userrole" => "sys_user_role",
- 			"serviceoffering" => "service_offering", 
-			"affectedci" => "task_ci", 
-			"changetask" => "change_task",
-			"email" => "sys_email",
-			"knowledge" => "kb_knowledge", 
-			"knowledgefeedback" => "kb_feedback",
-			"usergroupmember" => "sys_user_grmember", 
-			"choice" => "sys_choice" 
-		);
-		$tableName = strtolower( $tableName ); 
-		$this -> tableName = $tableName;
-		if( in_array( $tableName, array_keys( $tableMap ) ) )
-		{	
-			$tableName = $tableMap[ $tableName ]; 
+		/*
+		 * If debug is not set, assume false.
+		 */
+		if(array_key_exists('debug', $Options)){
+			$this -> debug = $Options['debug'];
 		}
-		$this -> WSDL .= $tableName . ".do?WSDL&displayvalue=all";
-		$this -> client = new SoapClient( $this -> WSDL , self :: getOptions() );
+		if($this->debug){
+			ini_set('display_errors',1);
+			error_reporting(E_ALL|E_STRICT);
+		}
+		/*
+		 * Check to see if an instance was passed in the options. If not, throw an error.
+		 * Check to see if the instance starts with http:// or https://, if not prepend https://
+		 * Check to see if the instance ends with ".service-now.com", if not append it.
+		 * Check to see if the instance ends with "/", if not append "/"
+		 */
+		if(array_key_exists('instance', $Options)){
+			$this->WSDL = $Options['instance'];			
+			if((strpos($this->WSDL, 'https://') !== 0) && (strpos($this->WSDL, 'http://') !== 0)){
+				$this->WSDL = "https://" . $this->WSDL;
+			}
+			if(substr($this->WSDL, strlen($this->WSDL)-16) != ".service-now.com" ){
+				$this->WSDL .= ".service-now.com";
+			}
+			if(substr($this->WSDL, strlen($this->WSDL)-1) != "/" ){
+				$this->WSDL .= "/";
+			}
+			
+		} else {
+			//FIXME: Throw an error, as there can be no default instance of Service-Now
+		}
+		
+		
+		//table map provides lookup and if not found we assume tableName
+		//provided is expected to be correct and will be used
+		$tableMap = array(
+				"incident" => "incident",
+				"change" => "change_request",
+				"problem" => "problem",
+				"request" => "sc_request",
+				"requestitem" => "sc_req_item",
+				"department" => "cmn_department",
+				"message" => "cmn_notif_message",
+				"device" => "cmn_notif_device",
+				"catalogtask" => "sc_task",
+				"hr" => "hr",
+				"requestitem" => "sc_request_item",
+				"usergroup" => "sys_user_group",
+				"user" => "sys_user",
+				"userhasrole" => "sys_user_has_role",
+				"userrole" => "sys_user_role",
+				"serviceoffering" => "service_offering",
+				"affectedci" => "task_ci",
+				"changetask" => "change_task",
+				"email" => "sys_email",
+				"knowledge" => "kb_knowledge",
+				"knowledgefeedback" => "kb_feedback",
+				"usergroupmember" => "sys_user_grmember",
+				"choice" => "sys_choice"
+		);
+		
+		$this -> tableName = strtolower( $Options['tableName'] );
+		
+		
+		if(array_key_exists('tableName', $Options)){
+			if(in_array( $Options['tableName'], array_keys( $tableMap ))){
+				$this->tableName = $tableMap[$Options['tableName']];
+			} else {
+				//FIXME: Throw an error, unsupported table name.
+			}
+		} else {
+			//FIXME: Throw an error, we can't assume the tablename.
+		}
+		
+		$this -> WSDL .= $this->tableName . ".do?WSDL&displayvalue=all";
+		
+		if(array_key_exists('login', $Options)){
+			$this->LOGIN = $Options['login'];		
+		}
+		
+		if(array_key_exists('password', $Options)){
+			$this->PASSWORD = $Options['password'];
+		}
+		
+		if(array_key_exists('fromTimeZone', $Options)){
+			$this->fromZone = $Options['fromTimeZone'];
+		}
+		
+		if(array_key_exists('toTimeZone', $Options)){
+			$this->toZone = $Options['toTimeZone'];		
+		}
+		
+		$this -> client = new SoapClient( $this -> WSDL , self :: getServiceNowOptions() );
 	}
 
 	/**  
@@ -135,9 +214,9 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 	*	@return associative_array, this.array('login' -> $this->login, 
 	*	'password'->$this->password') 
 	*/
-	private static function getOptions()
+	private function getServiceNowOptions()
 	{
-		return array( 'login'=> self::LOGIN, 'password' => self::PASSWORD, 
+		return array( 'login'=> $this->LOGIN, 'password' => $this->PASSWORD, 
 			'compression' => SOAP_COMPRESSION_ACCEPT | SOAP_COMPRESSION_GZIP, 'cache_wsdl' => WSDL_CACHE_NONE ); 
 	}
 
@@ -274,8 +353,8 @@ class SNSoapClient implements ServiceNowSoapClientInterface
                     $allRecords, 
                     new Record( $soapRecord , $this -> tableName ) 
                 );
-				
-			return $this -> fixDates( $ret );
+				return $allRecords;
+// 			return $this -> fixDates( $ret );
 		}catch( Exception $E ){
 			return $this -> caughtException($E);
 		}
