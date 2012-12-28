@@ -1,0 +1,12788 @@
+Update script started at: 2012-06-03 00:01:01
+Processing change_task table
+Update finished.
+Processing sysapproval_approver table
+Update finished.
+Processing sc_task table
+Update finished.
+Processing kb_knowledge table
+Update finished.
+Processing sc_req_item table
+Update finished.
+Processing sc_request table
+Update finished.
+Processing problem table
+Update finished.
+Processing change_request table
+Update finished.
+Processing sys_db_object table
+Update finished.
+Processing incident table
+Error processing incident table
+Update script started at: 2012-06-10 00:01:01
+Processing change_task table
+Update finished.
+Processing sysapproval_approver table
+Update finished.
+Processing sc_task table
+Update finished.
+Processing kb_knowledge table
+Update finished.
+Processing sc_req_item table
+Update finished.
+Processing sc_request table
+Update finished.
+Processing problem table
+Update finished.
+Processing change_request table
+Update finished.
+Processing sys_db_object table
+Update finished.
+Processing incident table
+Error processing incident table
+Update script started at: 2012-06-22 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing kb_knowledge table
+Error processing kb_knowledge table
+Processing sc_req_item table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Update finished.
+Processing sc_request table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Update finished.
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing incident table
+Error processing incident table
+Update script started at: 2012-06-24 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing kb_knowledge table
+Error processing kb_knowledge table
+Processing sc_req_item table
+Error processing sc_req_item table
+Processing sc_request table
+Error processing sc_request table
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing incident table
+Error processing incident table
+Update script started at: 2012-07-01 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Update finished.
+Processing kb_knowledge table
+Error processing kb_knowledge table
+Processing sc_req_item table
+Error processing sc_req_item table
+Processing sc_request table
+Error processing sc_request table
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing incident table
+Error processing incident table
+Update script started at: 2012-07-08 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing kb_knowledge table
+Error processing kb_knowledge table
+Processing sc_req_item table
+Error processing sc_req_item table
+Processing sc_request table
+Error processing sc_request table
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing incident table
+Error processing incident table
+Update script started at: 2012-07-15 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing kb_knowledge table
+Processed 249 records
+Update finished.
+Processing sc_req_item table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Update finished.
+Processing sc_request table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Update finished.
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing incident table
+Error processing incident table
+Update script started at: 2012-07-22 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Update finished.
+Processing kb_knowledge table
+Processed 249 records
+Update finished.
+Processing sc_req_item table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Processed 5999 records
+Processed 6249 records
+Processed 6499 records
+Processed 6749 records
+Processed 6999 records
+Update finished.
+Processing sc_request table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Processed 5999 records
+Processed 6249 records
+Processed 6499 records
+Processed 6749 records
+Processed 6999 records
+Update finished.
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing incident table
+Error processing incident table
+Processing sys_user table
+Error processing sys_user table
+Update script started at: 2012-07-29 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing kb_knowledge table
+Processed 249 records
+Update finished.
+Processing sc_req_item table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Update finished.
+Processing sc_request table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Processed 5999 records
+Processed 6249 records
+Processed 6499 records
+Processed 6749 records
+Processed 6999 records
+Processed 7249 records
+Processed 7499 records
+Processed 7749 records
+Processed 7999 records
+Processed 8249 records
+Processed 8499 records
+Processed 8749 records
+Processed 8999 records
+Processed 9249 records
+Processed 9499 records
+Processed 9749 records
+Processed 9999 records
+Processed 10249 records
+Processed 10499 records
+Processed 10749 records
+Processed 10999 records
+Processed 11249 records
+Processed 11499 records
+Processed 11749 records
+Processed 11999 records
+Processed 12249 records
+Processed 12499 records
+Processed 12749 records
+Processed 12999 records
+Processed 13249 records
+Processed 13499 records
+Processed 13749 records
+Processed 13999 records
+Processed 14249 records
+Processed 14499 records
+Processed 14749 records
+Processed 14999 records
+Processed 15249 records
+Processed 15499 records
+Processed 15749 records
+Processed 15999 records
+Processed 16249 records
+Processed 16499 records
+Processed 16749 records
+Processed 16999 records
+Processed 17249 records
+Processed 17499 records
+Processed 17749 records
+Processed 17999 records
+Processed 18249 records
+Processed 18499 records
+Processed 18749 records
+Processed 18999 records
+Processed 19249 records
+Processed 19499 records
+Processed 19749 records
+Processed 19999 records
+Processed 20249 records
+Processed 20499 records
+Processed 20749 records
+Processed 20999 records
+Processed 21249 records
+Processed 21499 records
+Processed 21749 records
+Update finished.
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing incident table
+Error processing incident table
+Processing sys_user table
+Error processing sys_user table
+Update script started at: 2012-08-05 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing kb_knowledge table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sc_req_item table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Update finished.
+Processing sc_request table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Processed 5999 records
+Processed 6249 records
+Processed 6499 records
+Processed 6749 records
+Processed 6999 records
+Processed 7249 records
+Processed 7499 records
+Processed 7749 records
+Processed 7999 records
+Processed 8249 records
+Processed 8499 records
+Processed 8749 records
+Processed 8999 records
+Processed 9249 records
+Processed 9499 records
+Processed 9749 records
+Processed 9999 records
+Processed 10249 records
+Processed 10499 records
+Processed 10749 records
+Processed 10999 records
+Processed 11249 records
+Processed 11499 records
+Processed 11749 records
+Processed 11999 records
+Processed 12249 records
+Processed 12499 records
+Processed 12749 records
+Processed 12999 records
+Processed 13249 records
+Processed 13499 records
+Processed 13749 records
+Processed 13999 records
+Processed 14249 records
+Processed 14499 records
+Processed 14749 records
+Processed 14999 records
+Processed 15249 records
+Processed 15499 records
+Processed 15749 records
+Processed 15999 records
+Processed 16249 records
+Processed 16499 records
+Processed 16749 records
+Processed 16999 records
+Processed 17249 records
+Processed 17499 records
+Processed 17749 records
+Processed 17999 records
+Processed 18249 records
+Processed 18499 records
+Processed 18749 records
+Processed 18999 records
+Processed 19249 records
+Processed 19499 records
+Processed 19749 records
+Processed 19999 records
+Processed 20249 records
+Processed 20499 records
+Processed 20749 records
+Processed 20999 records
+Processed 21249 records
+Processed 21499 records
+Processed 21749 records
+Update finished.
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing incident table
+Error processing incident table
+Processing sys_user table
+Error processing sys_user table
+Update script started at: 2012-08-12 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing kb_knowledge table
+Processed 249 records
+Update finished.
+Processing sc_req_item table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Update finished.
+Processing sc_request table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Update finished.
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing incident table
+Error processing incident table
+Processing sys_user table
+Error processing sys_user table
+Update script started at: 2012-08-19 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing kb_knowledge table
+Processed 249 records
+Update finished.
+Processing sc_req_item table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Update finished.
+Processing sc_request table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Update finished.
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing incident table
+Error processing incident table
+Processing sys_user table
+Error processing sys_user table
+Update script started at: 2012-08-26 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing kb_knowledge table
+Processed 249 records
+Update finished.
+Processing sc_req_item table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Update finished.
+Processing sc_request table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Update finished.
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing incident table
+Error processing incident table
+Processing sys_user table
+Error processing sys_user table
+Update script started at: 2012-09-02 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Processed 5999 records
+Processed 6249 records
+Processed 6499 records
+Processed 6749 records
+Processed 6999 records
+Processed 7249 records
+Processed 7499 records
+Processed 7749 records
+Processed 7999 records
+Processed 8249 records
+Processed 8499 records
+Processed 8749 records
+Processed 8999 records
+Processed 9249 records
+Processed 9499 records
+Processed 9749 records
+Processed 9999 records
+Processed 10249 records
+Processed 10499 records
+Processed 10749 records
+Processed 10999 records
+Processed 11249 records
+Processed 11499 records
+Processed 11749 records
+Processed 11999 records
+Processed 12249 records
+Processed 12499 records
+Processed 12749 records
+Processed 12999 records
+Processed 13249 records
+Processed 13499 records
+Processed 13749 records
+Processed 13999 records
+Processed 14249 records
+Processed 14499 records
+Processed 14749 records
+Processed 14999 records
+Processed 15249 records
+Processed 15499 records
+Processed 15749 records
+Processed 15999 records
+Processed 16249 records
+Processed 16499 records
+Processed 16749 records
+Processed 16999 records
+Processed 17249 records
+Processed 17499 records
+Processed 17749 records
+Processed 17999 records
+Processed 18249 records
+Processed 18499 records
+Processed 18749 records
+Processed 18999 records
+Processed 19249 records
+Processed 19499 records
+Processed 19749 records
+Processed 19999 records
+Processed 20249 records
+Processed 20499 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Update finished.
+Processing kb_knowledge table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+...
+Processed 183144499 records
+Error processing kb_knowledge table
+Processing sc_req_item table
+Error processing sc_req_item table
+Processing sc_request table
+Error processing sc_request table
+Processing problem table
+ERROR: Problem reading url: https://osuitsm.service-now.com/problem.do?displayvalue=true&wsdl
+Error processing problem table
+Processing change_request table
+Error processing change_request table
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing sys_user table
+Error processing sys_user table
+Processing incident table
+Error processing incident table
+Update script started at: 2012-09-09 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Update finished.
+Processing kb_knowledge table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sc_req_item table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Processed 5999 records
+Processed 6249 records
+Processed 6499 records
+Processed 6749 records
+Processed 6999 records
+Processed 7249 records
+Processed 7499 records
+Processed 7749 records
+Processed 7999 records
+Processed 8249 records
+Processed 8499 records
+Update finished.
+Processing sc_request table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Processed 5999 records
+Processed 6249 records
+Processed 6499 records
+Processed 6749 records
+Processed 6999 records
+Processed 7249 records
+Processed 7499 records
+Processed 7749 records
+Processed 7999 records
+Processed 8249 records
+Processed 8499 records
+Update finished.
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing sys_user table
+Error processing sys_user table
+Processing incident table
+Error processing incident table
+Update script started at: 2012-09-16 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Update finished.
+Processing kb_knowledge table
+Processed 249 records
+Update finished.
+Processing sc_req_item table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Processed 5999 records
+Processed 6249 records
+Processed 6499 records
+Update finished.
+Processing sc_request table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Processed 5999 records
+Processed 6249 records
+Processed 6499 records
+Update finished.
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing sys_user table
+Error processing sys_user table
+Processing incident table
+Error processing incident table
+Update script started at: 2012-09-23 00:01:01
+Processing change_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Update finished.
+Processing sysapproval_approver table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Update finished.
+Processing sc_task table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Update finished.
+Processing kb_knowledge table
+Processed 249 records
+Update finished.
+Processing sc_req_item table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Processed 5999 records
+Processed 6249 records
+Processed 6499 records
+Update finished.
+Processing sc_request table
+Processed 249 records
+Processed 499 records
+Processed 749 records
+Processed 999 records
+Processed 1249 records
+Processed 1499 records
+Processed 1749 records
+Processed 1999 records
+Processed 2249 records
+Processed 2499 records
+Processed 2749 records
+Processed 2999 records
+Processed 3249 records
+Processed 3499 records
+Processed 3749 records
+Processed 3999 records
+Processed 4249 records
+Processed 4499 records
+Processed 4749 records
+Processed 4999 records
+Processed 5249 records
+Processed 5499 records
+Processed 5749 records
+Processed 5999 records
+Processed 6249 records
+Update finished.
+Processing problem table
+Processed 249 records
+Update finished.
+Processing change_request table
+Processed 249 records
+Processed 499 records
+Update finished.
+Processing sys_db_object table
+Processed 249 records
+Update finished.
+Processing sys_user table
+Error processing sys_user table
+Processing incident table
+Error processing incident table
+Update script started at: 2012-12-12 11:17:42
+Processing change_task table
+Error processing change_task table
+Processing sysapproval_approver table
+Error processing sysapproval_approver table
+Processing sc_task table
+Error processing sc_task table
+Processing kb_knowledge table
+Error processing kb_knowledge table
+Processing sc_req_item table
+Error processing sc_req_item table
+Processing sc_request table
+Error processing sc_request table
+Processing problem table
+Error processing problem table
+Processing change_request table
+Error processing change_request table
+Processing sys_db_object table
+Error processing sys_db_object table
+Processing sys_user table
+Error processing sys_user table
+Processing incident table
+Error processing incident table
+Script finished at: 2012-12-12 11:17:42
+Update script started at: 2012-12-16 00:01:01
+[info] Processing change_task table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info]Processing sysapproval_approver table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sc_task table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing kb_knowledge table
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sc_req_item table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sc_request table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing problem table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing change_request table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sys_db_object table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sys_user table
+[info] Processing incident table
+True
+True
+True
+True
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+Update script started at: 2012-12-23 00:01:01
+[info] Processing change_task table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info]Processing sysapproval_approver table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sc_task table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing kb_knowledge table
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sc_req_item table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sc_request table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing problem table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing change_request table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sys_db_object table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sys_user table
+[info] Processing incident table
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+Update script started at: 2012-12-26 19:05:28
+[info] Processing change_task table
+True
+[error]  processing change_task table
+[info]Processing sysapproval_approver table
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 249 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 499 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 749 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 999 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 1249 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 1499 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 1749 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 1999 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 2249 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 2499 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 2749 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 2999 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 3249 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 3499 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 3749 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 3999 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 4249 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 4499 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 4749 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 4999 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 5249 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 5499 records
+Update finished.
+[info] Processing sc_task table
+True
+[error]  processing sc_task table
+[info] Processing kb_knowledge table
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sc_req_item table
+True
+[error]  processing sc_req_item table
+[info] Processing sc_request table
+True
+[error]  processing sc_request table
+[info] Processing problem table
+True
+[error]  processing problem table
+[info] Processing change_request table
+True
+[error]  processing change_request table
+[info] Processing sys_db_object table
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+Processed 249 records
+Update finished.
+[info] Processing sys_user table
+[info] Processing incident table
+True
+[error]  processing incident table
+Update script started at: 2012-12-26 19:18:20
+[info] Processing change_task table
+True
+[error]  processing change_task table
+[info]Processing sysapproval_approver table
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 249 records
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+Processed 499 records
+[error]  processing sysapproval_approver table
+[info] Processing sc_task table
+[error]  processing sc_task table
+[info] Processing kb_knowledge table
+[error]  processing kb_knowledge table
+[info] Processing sc_req_item table
+[error]  processing sc_req_item table
+[info] Processing sc_request table
+[error]  processing sc_request table
+[info] Processing problem table
+[error]  processing problem table
+[info] Processing change_request table
+[error]  processing change_request table
+[info] Processing sys_db_object table
+[error]  processing sys_db_object table
+[info] Processing sys_user table
+[info] Processing incident table
+[error]  processing incident table
