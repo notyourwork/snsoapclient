@@ -15,6 +15,17 @@
 	
 	$record = $client->getRecords(array('sys_id'=>'e8e875b0c0a80164009dc852b4d677d5'));
 	
-	var_dump($record);
+// 	echo "User ID: " . $record[0]->soapRecord->assigned_to . "\n\n";
+	
+// 	var_dump($record[0]);
+	
+// 	$clientOptions['tableName'] = "user";
+	
+// 	$client = new SNSoapClient($clientOptions);
+	
+// 	$user = $client->getRecords(array('sys_id'=>$record[0]->soapRecord->assigned_to));
+	
+// 	var_dump($user);
+print_r($record[0]->getComments());
 	
 ?>

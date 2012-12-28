@@ -353,8 +353,8 @@ class SNSoapClient implements ServiceNowSoapClientInterface
                     $allRecords, 
                     new Record( $soapRecord , $this -> tableName ) 
                 );
-				
-			return $this -> fixDates( $ret );
+				return $allRecords;
+// 			return $this -> fixDates( $ret );
 		}catch( Exception $E ){
 			return $this -> caughtException($E);
 		}
