@@ -52,7 +52,7 @@ cur.execute("CREATE TABLE "+table_name+sql_command)
 
 # DUMP DATA INTO TABLE
 # Open url with SOAP call - dynamic elements of SOAP endpoint construction 
-username, password, gliderecord = 'admin', 'explodev1234', table_name
+username, password, gliderecord = '', '', table_name
 proxy = "https://%s:%s@%s.service-now.com/%s.do?displayvalue=all&SOAP" % (username, password, instance, gliderecord, )
 namespace = 'http://www.glidesoft.com/'
 server = SOAPProxy(proxy,namespace)
