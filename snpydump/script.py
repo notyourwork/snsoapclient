@@ -46,7 +46,7 @@ con.commit()
 # Open url with username password
 password_mgr = urllib2.HTTPPasswordMgrWithDefaultRealm()
 jsonurl = "https://" + instance + "/" + table_name + ".do?JSON"
-password_mgr.add_password(None, jsonurl, "admin", "explodev1234")
+password_mgr.add_password(None, jsonurl, "", "")
 handler = urllib2.HTTPBasicAuthHandler(password_mgr)
 try:
 	opener = urllib2.build_opener(handler)
