@@ -8,7 +8,7 @@
 							'password' => 'admin', 
 							'instance' => 'demo008',
 							'debug' => true, 
-							'tableName' => "incident");
+							'tableName' => "incident.do");
 	
 	$client = new SNSoapClient($clientOptions);
 	
@@ -26,6 +26,6 @@
 // 	$user = $client->getRecords(array('sys_id'=>$record[0]->soapRecord->assigned_to));
 	
 // 	var_dump($user);
-print_r($record[0]->getComments());
+print_r($record);
 	
 ?>

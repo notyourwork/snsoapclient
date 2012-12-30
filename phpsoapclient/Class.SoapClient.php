@@ -173,20 +173,25 @@ class SNSoapClient implements ServiceNowSoapClientInterface
 				"choice" => "sys_choice"
 		);
 		
-		$this -> tableName = strtolower( $Options['tableName'] );
-		
-		
 		if(array_key_exists('tableName', $Options)){
-			if(in_array( $Options['tableName'], array_keys( $tableMap ))){
-				$this->tableName = $tableMap[$Options['tableName']];
+			if(in_array($Options['tableName'], array_keys($tableMap)) || substr($Options['tableName'], strlen($Options['tableName'])-3) == ".do" ){
+				if(substr($Options['tableName'], strlen($Options['tableName'])-3) == ".do"){
+					//If provided a full table name (e.g.: example.do), assume the user knows what they're doing and use it
+					$this -> tableName = strtolower( $Options['tableName']);
+					//Throw a warning at them if debugging is enabled.
+					$this->debug ? print("Warning: Unsupported table name.\n") : NULL;
+						
+				} else {
+					$this->tableName = $tableMap[$Options['tableName']] . ".do";
+				}
 			} else {
-				//FIXME: Throw an error, unsupported table name.
+				$this->debug ? print("Fatal Error: Unsupported table name\n") : NULL;
 			}
-		} else {
-			//FIXME: Throw an error, we can't assume the tablename.
+		}else {
+				$this->debug ? print("Fatal Error: No table name given\n") : NULL;
 		}
 		
-		$this -> WSDL .= $this->tableName . ".do?WSDL&displayvalue=all";
+		$this -> WSDL .= $this->tableName . "?WSDL&displayvalue=all";
 		
 		if(array_key_exists('login', $Options)){
 			$this->LOGIN = $Options['login'];		
